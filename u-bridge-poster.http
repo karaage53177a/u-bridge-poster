@@ -1,0 +1,6 @@
+@u_bridge_poster_HostAddress = http://localhost:5269
+
+GET {{u_bridge_poster_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
